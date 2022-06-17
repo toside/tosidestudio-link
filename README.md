@@ -1,4 +1,4 @@
-Toside Studio - Account Library
+Toside Studio - Link Library
 =========
 Library reserved for [Toside Studio](https://www.tosidestudio.com/) projects. Developed to be integrated into projects
 NextJS.
